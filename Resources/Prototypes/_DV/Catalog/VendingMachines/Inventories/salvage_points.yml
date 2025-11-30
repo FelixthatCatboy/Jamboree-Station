@@ -60,6 +60,8 @@
     cost: 500
   - id: ClothingShoesBootsJack
     cost: 550
+  - id: ClothingHandsGlovesCombat
+    cost: 550 # edited so its feasible for a salv to afford both these and jackboots
   - id: MineralScanner
     cost: 550
   - id: MedkitBruteFilled
@@ -118,8 +120,6 @@
   - id: WeaponPlasmaCutter
     cost: 1700
   - id: BorgModuleAdvancedMining
-    cost: 2000
-  - id: ClothingHandsGlovesCombat
     cost: 2000
   - id: OreBagOfHolding
     cost: 2000
