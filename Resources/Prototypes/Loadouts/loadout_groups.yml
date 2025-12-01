@@ -186,6 +186,7 @@
   - PlushieSpaceLizard
   - PersonalAI # Goobstation
   - GoldenPersonalAI # Goobstation
+  - CrewCassette # Goobstation
   - ThreeCandles
   - Lighter
   - CigPackGreen
@@ -348,6 +349,7 @@
   - CaptainCloak
   - CaptainCloakFormal
   - CaptainMantle
+  - VeteranCaptainCloak # goob
 
 - type: loadoutGroup
   id: CaptainBackpack
@@ -1346,6 +1348,7 @@
   loadouts:
   - SecurityBelt
   - SecurityWebbing
+  - SecurityJudoBelt # Goobstation - Martial Arts
 
 - type: loadoutGroup
   id: SecurityOuterClothing
