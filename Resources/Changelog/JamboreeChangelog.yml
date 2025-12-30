@@ -360,3 +360,11 @@ Entries:
       message: made changeling not round remove
   id: 47
   time: '2025-12-06T21:03:51.0000000+00:00'
+- author: Gorse1
+  changes:
+    - type: Tweak
+      message: >-
+        Reworked the instigator to be a more building/scrapping focused antag,
+        have fun!
+  id: 48
+  time: '2025-12-30T11:37:21.0000000+00:00'
