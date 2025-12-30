@@ -1,0 +1,45 @@
+﻿- type: entity
+  parent: [ClothingNeckBase, BaseCommandContraband]
+  id: ClothingNeckCloakCaptainAdmiral
+  name: admiral's cloak
+  description: "A favourite for many a naval officer"
+  components:
+  - type: Sprite
+    sprite: _Impstation/Clothing/Neck/Cloaks/capcloakadmiral.rsi
+  - type: StealTarget
+    stealGroup: HeadCloak
+
+- type: entity
+  parent: ClothingCloakCmo
+  id: ClothingNeckCloakCmosGreatcloak
+  name: chief medical officer's greatcloak
+  description: "An ornate high collared great cloak. Good luck keeping it clean."
+  components:
+  - type: Sprite
+    sprite: _Impstation/Clothing/Neck/Cloaks/cmogreatcloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakPassenger
+  name: greycloak
+  description: What a sight. A Passenger true, if ever one there was!
+  components:
+  - type: Sprite
+    sprite: _Impstation/Clothing/Neck/Cloaks/passenger.rsi
+  - type: ToggleableClothing
+    clothingPrototype: ClothingHeadHatHoodPassenger
+    requiredSlot:
+    - neck
+    slot: head
+  - type: ContainerContainer
+    containers:
+      toggleable-clothing: !type:ContainerSlot {}
+  - type: Tag
+    tags:
+    - WhitelistChameleon
+  - type: Foldable
+    canFoldInsideContainer: true
+    unfoldVerbText: unfold-verb-clothing-cloak
+    foldVerbText: fold-verb-clothing-cloak
+  - type: FoldableClothing
+    foldedEquippedPrefix: folded
