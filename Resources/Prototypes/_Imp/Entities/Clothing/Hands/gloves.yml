@@ -1,5 +1,5 @@
 ﻿- type: entity
-  parent: [ClothingHandsInedibleBase, BaseCommandContraband]
+  parent: [ClothingHandsBase, BaseCommandContraband]
   id: ClothingHandsGlovesCaptainflightgloves
   name: flight gloves
   description: "Regal black leather gloves with gold trim, insulated from electricity. So comfortable you forget you're wearing them."

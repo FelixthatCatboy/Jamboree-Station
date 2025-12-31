@@ -19,19 +19,7 @@
         "directions": 4
       },
       {
-        "name": "equipped-MASK-ungu",
-        "directions": 4
-      },
-      {
         "name": "equipped-MASK-vox",
-        "directions": 4
-      },
-      {
-        "name": "equipped-MASK-gray",
-        "directions": 4
-      },
-      {
-        "name": "equipped-MASK-anomalocarid",
         "directions": 4
       }
     ]
