@@ -36,7 +36,7 @@
   - type: Clothing
     sprite: _Impstation/Clothing/Hands/Gloves/mus_singergloves.rsi
   - type: Fiber
-    fiberMaterial: fibers-web
+    fiberMaterial: fibers-synthetic #changed from web
     fiberColor: fibers-purple
   - type: FingerprintMask
 
@@ -51,6 +51,6 @@
   - type: Clothing
     sprite: _Impstation/Clothing/Hands/Gloves/angelgloves.rsi
   - type: Fiber
-    fiberMaterial: fibers-web
+    fiberMaterial: fibers-synthetic #changed from web
     fiberColor: fibers-white
   - type: FingerprintMask

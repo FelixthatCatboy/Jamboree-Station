@@ -13,8 +13,8 @@
   - type: Clothing
     sprite: _Impstation/Clothing/Eyes/Hud/capeyepatch.rsi
   - type: EyeProtection
-  - type: ShowJobIcons
     protectionTime: 5
+  - type: ShowJobIcons
   - type: Tag
     tags:
     - WhitelistChameleon

@@ -14,8 +14,8 @@
     sprite: _Impstation/Clothing/Eyes/Glasses/captainvisor.rsi
   - type: FlashImmunity
   - type: EyeProtection
-  - type: ShowJobIcons
     protectionTime: 5
+  - type: ShowJobIcons
   - type: Tag
     tags:
     - WhitelistChameleon

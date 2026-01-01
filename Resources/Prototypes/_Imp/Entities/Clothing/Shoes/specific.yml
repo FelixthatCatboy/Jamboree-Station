@@ -10,9 +10,9 @@
       sprite: _Impstation/Clothing/Shoes/Specific/circusclownshoes.rsi
     - type: FootstepModifier
       footstepSoundCollection:
-      collection: FootstepClown
-      params:
-        variation: 0.17
+        collection: FootstepClown
+        params:
+          variation: 0.17
 
 - type: entity
   parent: ClothingShoesClown
@@ -26,9 +26,9 @@
       sprite: _Impstation/Clothing/Shoes/Specific/clown_jokestershoes.rsi
     - type: FootstepModifier
       footstepSoundCollection:
-      collection: FootstepClown
-      params:
-        variation: 0.17
+        collection: FootstepClown
+        params:
+          variation: 0.17
 
 - type: entity
   parent: ClothingShoesClown

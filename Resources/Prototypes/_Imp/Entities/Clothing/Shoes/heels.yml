@@ -12,9 +12,9 @@
     sprite: _Impstation/Clothing/Shoes/Heels/heelsred.rsi
   - type: Clothing
     sprite: _Impstation/Clothing/Shoes/Heels/heelsred.rsi
-  - type: FootstepModifier
-    footstepSoundCollection:
-      collection: FootstepHighheels
+ # - type: FootstepModifier
+  #  footstepSoundCollection:
+   #   collection: FootstepHighheels #jamboree, changing to have a standardized footstep sound
 
 - type: entity
   parent: ClothingShoesHeelsRed
