@@ -452,3 +452,15 @@ Entries:
       message: Added NTR spawns to atlas amber and bagel
   id: 56
   time: '2026-01-15T04:33:44.0000000+00:00'
+- author: Bibble-B-Boop
+  changes:
+    - type: Tweak
+      message: >-
+        Changed multiple mentions of Space Law to Legal Mandate as to avoid
+        confusion on in game rules. Check out the guidebook for details!
+    - type: Tweak
+      message: >-
+        Changed the Space Law guidebook into the Legal Mandate guidebook! The
+        sprite is also different!
+  id: 57
+  time: '2026-01-15T04:35:09.0000000+00:00'
