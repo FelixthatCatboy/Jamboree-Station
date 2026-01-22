@@ -496,3 +496,35 @@ Entries:
         Medical Interns to Chibi! Finally, you can have a training arc on Chibi!
   id: 59
   time: '2026-01-22T04:31:56.0000000+00:00'
+- author: Bibble-B-Boop
+  changes:
+    - type: Add
+      message: Added Clowns and Mimes to Chibi! They live in the dump.
+    - type: Tweak
+      message: >-
+        Disposals has been turned into a hybrid of a Disposals and a Clown/Mime
+        room. They live in the dump.
+    - type: Add
+      message: CMOs and HOPs have arrived to Chibi station! Their vacation is over.
+    - type: Tweak
+      message: >-
+        Added the HOP's locker to the bridge and the CMO's locker to the surgery
+        room.
+    - type: Tweak
+      message: One of the beds in Chibi has been traded out for a stasis bed!
+    - type: Add
+      message: Chaplains have arrived to Chibi! They sensed how ungodly it was there.
+    - type: Tweak
+      message: >-
+        The library has been transformed into a chapel! The Games vendor is
+        still there, but now you can pray your sins away too!
+    - type: Add
+      message: >-
+        Lawyers have come to Chibi. They don't have a dedicated room, but are
+        still ready to point out loopholes!
+    - type: Add
+      message: Service Workers have come to Chibi. They want to work in service.
+    - type: Add
+      message: There is something in one of the maints halls of Chibi... Enjoy!
+  id: 60
+  time: '2026-01-22T22:44:50.0000000+00:00'
