@@ -528,3 +528,11 @@ Entries:
       message: There is something in one of the maints halls of Chibi... Enjoy!
   id: 60
   time: '2026-01-22T22:44:50.0000000+00:00'
+- author: Gorse1
+  changes:
+    - type: Add
+      message: Added NTR spawns to barratry, box, and chloris
+    - type: Remove
+      message: Removed BSO from barratry, box and chloris
+  id: 61
+  time: '2026-01-23T03:02:48.0000000+00:00'
