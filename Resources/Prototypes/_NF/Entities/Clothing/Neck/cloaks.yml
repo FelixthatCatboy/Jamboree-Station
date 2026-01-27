@@ -21,6 +21,9 @@
     requiredSlot:
     - neck
     slot: head
+  - type: ContainerContainer
+    containers:
+      toggleable-clothing: !type:Container
   - type: Construction
     graph: NFGoblinMadeClothingNeckTrashCloak
     node: NFGoblinMadeClothingNeckTrashCloak
