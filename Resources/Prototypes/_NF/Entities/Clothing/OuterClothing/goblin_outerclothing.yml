@@ -36,6 +36,7 @@
   - type: ContainerContainer
     containers:
       storagebase: !type:Container
+      toggleable-clothing: !type:Container
   - type: StaticPrice
     price: 65
   - type: Construction
