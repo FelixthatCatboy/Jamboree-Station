@@ -2,13 +2,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-language-FloorGoblin-name = Floor Goblin
+language-FloorGoblin-name = Goblin
 language-FloorGoblin-description =
     Mimimi mimimi iyoyoyo memimimimi bibibibibi mimim mimimi
 
-chat-language-FloorGoblin-name = Floor Goblin
+chat-language-FloorGoblin-name = Goblin
 
-chat-speech-verb-name-floor-goblin = Floor Goblin
+chat-speech-verb-name-floor-goblin = Goblin
 chat-speech-verb-floor-goblin-1 = mumbles
 chat-speech-verb-floor-goblin-2 = screeches
 chat-speech-verb-floor-goblin-3 = shrieks
